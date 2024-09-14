@@ -1,1 +1,1 @@
-hi how about u!
+hi welcome to git hub
